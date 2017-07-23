@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "285297546594",
+    "firebase_url": "https://housemate-b470b.firebaseio.com",
+    "project_id": "housemate-b470b",
+    "storage_bucket": "housemate-b470b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285297546594:android:f0ae851ab8ae4eb2",
+        "android_client_info": {
+          "package_name": "com.myu.android.housemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285297546594-pm9q7u6qhh2nf2k8fgpj5cf12g41vomk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzRQhxmkP91bMkoIPAkxwZP-xGi6hZKos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
